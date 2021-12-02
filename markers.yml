@@ -1,0 +1,6 @@
+# markers won't work unless you have an tracker store
+# other than the in memory one set up; this is just an 
+# example for the syntax
+
+marker_played_rps: 
+  action: action_play_rps
